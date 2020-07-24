@@ -1,6 +1,8 @@
 # tübular
 > Single page chat application for watching YouTube videos in sync with other users.
 
+[Video Demo](https://www.youtube.com/watch?v=MPpkOi2cYns)
+
 This is a chat app, built with a JavaScript frontend, and Rails as an API backend. It utilizes an ActionCable websocket for sending messages to other users, and for keeping YouTube videos in sync with other users.
 
 This is the frontend, the backend can be found [here](https://github.com/gothfemme/mod-3-final-project-backend/).
